@@ -3,6 +3,7 @@
 - [Shanit Paul](https://github.com/SlicePoh)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [7oda]tss
+- [Christine Allay] (https://github.com/ceaupid)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
@@ -242,7 +243,7 @@ gulshan
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Avi](https://github.com/avitheduck)
 - [Yahia Nasr] (https://github.com/Y4h14)
-- [Christine Allay] (https://github.com/ceaupid)
+- 
 -  [Yang Xiang](https://github.com/yangxdev)
 - [Ashish Meagh](https://github.com/ashishmeagh)
 - [mrlectus](https://github.com/mrlectus)
