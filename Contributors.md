@@ -234,7 +234,6 @@ gulshan
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
 - [Jonan Puro](https://github.com/Atheke)
-- 
 - [CallumReilly] (https://github.com/calumariy)
 - [NicholeWhatcott] (https://github.com/hotmessmonster)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
@@ -243,7 +242,8 @@ gulshan
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Avi](https://github.com/avitheduck)
 - [Yahia Nasr] (https://github.com/Y4h14)
-- [Yang Xiang](https://github.com/yangxdev)
+- [Christine Allay] (https://github.com/ceaupid)
+-  [Yang Xiang](https://github.com/yangxdev)
 - [Ashish Meagh](https://github.com/ashishmeagh)
 - [mrlectus](https://github.com/mrlectus)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
